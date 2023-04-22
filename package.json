@@ -1,0 +1,32 @@
+{
+  "name": "frigonpm",
+  "version": "1.0.0",
+  "description": "Simple utility to freeze dependencies in your `package.json` files.",
+  "license": "GPL-3.0-only",
+  "files": [
+    "./frigonpm"
+  ],
+  "bin": {
+    "frigonpm": "./frigonpm"
+  },
+  "keywords": [
+    "cli",
+    "npm",
+    "package.json",
+    "freeze",
+    "dependencies",
+    "version"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aksamyt/frigonpm.git"
+  },
+  "author": {
+    "name": "Alexandre Szymocha",
+    "url": "https://github.com/Aksamyt"
+  },
+  "bugs": {
+    "url": "https://github.com/Aksamyt/frigonpm/issues"
+  },
+  "homepage": "https://github.com/Aksamyt/frigonpm#readme"
+}
